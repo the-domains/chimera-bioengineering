@@ -1,0 +1,14 @@
+layout_spectrum: 0.04211600963026285
+typography_spectrum: 0.5568187835160643
+color:
+  brandStrength: 0.2683347456622869
+  lightness: 0.06746234651654959
+  saturation: 0.3615169730037451
+  rhythmicContrast: 0.06604211078956723
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: chimera bioengineering
