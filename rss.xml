@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[chimera bioengineering]]></title>
+        <description><![CDATA[chimera bioengineering]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 26 May 2016 21:11:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[smolke laboratory]]></title>
+            <description><![CDATA[<article><h1>smolke laboratory</h1><p>APR 2016 Congratulations to Cameron Kim for winning a Best Poster Award at the Stanford Bioengineering Retreat in Santa Cruz, CA DEC 2015 Congratulations to Dr. Christina Smolke for being honored in...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51979875454c0f91adf5ad48216cc225f7ea2f8d.jpg"></article>]]></description>
+            <link>http://smolkelab.weebly.com/</link>
+            <guid isPermaLink="false">5204cc83-2a04-448d-a62c-22f2b79ebaf0</guid>
+            <pubDate>Thu, 26 May 2016 21:11:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
